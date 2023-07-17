@@ -1,0 +1,7 @@
+C:\Users\Haider\source\repos\BankAccountv3\BankAccountv3\obj\Debug\BankAccountv3.csproj.AssemblyReference.cache
+C:\Users\Haider\source\repos\BankAccountv3\BankAccountv3\obj\Debug\BankAccountv3.csproj.CoreCompileInputs.cache
+C:\Users\Haider\source\repos\BankAccountv3\BankAccountv3\bin\Debug\BankAccountv3.exe.config
+C:\Users\Haider\source\repos\BankAccountv3\BankAccountv3\bin\Debug\BankAccountv3.exe
+C:\Users\Haider\source\repos\BankAccountv3\BankAccountv3\bin\Debug\BankAccountv3.pdb
+C:\Users\Haider\source\repos\BankAccountv3\BankAccountv3\obj\Debug\BankAccountv3.exe
+C:\Users\Haider\source\repos\BankAccountv3\BankAccountv3\obj\Debug\BankAccountv3.pdb
